@@ -46,7 +46,6 @@ HAL Security Gate Pass is a modern application that demonstrates contemporary de
 | **Modern Framework** | Core Application Framework | Provides excellent developer experience and performance optimization |
 | **TypeScript** | Type Safety | Ensures code reliability and better developer experience |
 | **Testing Framework** | Quality Assurance | Maintains code quality and prevents regressions |
-| **CI/CD Pipeline** | Automated Deployment | Ensures consistent and reliable deployments |
 
 ## 🚀 Getting Started
 
